@@ -28,10 +28,9 @@
 4. нажмите «скачать .blk».
 5. положите файл в папку `UserSights` в папке с игрой war thunder и выберите его в настройках игры.
 
-### советы
+### совет
 
-- лучше всего подходят картинки с четким, контрастным объектом.
-- если линий слишком много и игра может тормозить, уменьшите «максимум линий» или увеличьте «убрать мелкий мусор».
+- если линий слишком много (обычно если свыше 2500) то рисунок в игре скорее всего будет обрезанным, поэтому выходить за этот лимит не советую.
 
 ### запуск
 
@@ -71,8 +70,7 @@
 
 ### tips
 
-- images with a clear, high-contrast subject work best.
-- if there are too many lines and the game may lag, lower “max lines” or raise “remove small specks”.
+- If there are too many lines (usually over 2,500), the drawing in the game will most likely be cut off, so I don't recommend exceeding this limit.
 
 ### running
 
