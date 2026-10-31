@@ -32,10 +32,6 @@
 
 - если линий слишком много (обычно если свыше 2500) то рисунок в игре скорее всего будет обрезанным, поэтому выходить за этот лимит не советую.
 
-### запуск
-
-это один файл `index.html`, без сборки и зависимостей. откройте его двойным кликом или разместите на любом статическом хостинге, например на github pages.
-
 ### примечание
 
 проект неофициальный и никак не связан с gaijin entertainment. war thunder - товарный знак его владельца.
@@ -71,10 +67,6 @@
 ### tips
 
 - If there are too many lines (usually over 2,500), the drawing in the game will most likely be cut off, so I don't recommend exceeding this limit.
-
-### running
-
-it is a single `index.html` file with no build step and no dependencies. open it with a double click or host it on any static hosting, for example github pages.
 
 ### disclaimer
 
