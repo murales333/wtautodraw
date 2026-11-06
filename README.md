@@ -26,7 +26,7 @@
 2. при необходимости подстройте ползунки: чувствительность, детализацию, плавность, максимум линий.
 3. уберите лишнее ластиком, подберите размер и положение.
 4. нажмите «скачать .blk».
-5. положите файл в папку `UserSights` в папке с игрой war thunder и выберите его в настройках игры.
+5. положите файл в папку `UserSights` > `all_tanks` в папке с игрой war thunder и выберите его в настройках игры.
 
 ### совет
 
@@ -62,7 +62,7 @@
 2. adjust the sliders if needed: sensitivity, detail, smoothness, max lines.
 3. remove anything unwanted with the eraser and set the size and position.
 4. click “download .blk”.
-5. put the file into the `UserSights` folder inside your war thunder game folder and select it in the game settings.
+5. put the file into the `UserSights` > `all_tanks` folder inside your war thunder game folder and select it in the game settings.
 
 ### tips
 
